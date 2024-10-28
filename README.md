@@ -1,4 +1,4 @@
-# PROJECTS
+# Restaurent Management System
 This is my first python project
 Author- Kushal Gupta
 Technologies Used – Python Programming
